@@ -297,14 +297,14 @@ body {
     width: 1.5em;
     height: 1.5em;
     vertical-align: middle;
-    margin-right: 1em;
-    /* Adjust the value as needed */
+    margin-right: 1em; /* Adjust the value as needed */
+
 }
 
 #logo-icon {
     width: 2em;
     height: 2em;
     vertical-align: middle;
-    margin-right: 1em;
-    /* Adjust the value as needed */
+    margin-right: 1em; /* Adjust the value as needed */
+    
 }
