@@ -217,7 +217,7 @@ body {
 }
 
 .sidebar-right {
-    display:flex;
+    display: flex;
     flex-direction: column;
 }
 
@@ -246,7 +246,7 @@ body {
     margin: 5px 0 0 0; /* Adjust margin as needed */
 }
 
-.announcement + .announcement::before {
+.announcement+.announcement::before {
     content: "";
     display: block;
     width: 100%;
